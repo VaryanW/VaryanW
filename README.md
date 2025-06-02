@@ -6,7 +6,7 @@ Below, are listed some of the projects from both the course I have taken, as wel
 
 
 <br> <br>
-<h1>Other bootcamp assignments</h1><br>
+<h1>University of Minnesota Bootcamp - Projects/assignments to gain experience with tools, systems and protocols</h1><br>
 <p>Digital Forensics</p>
 <p>Encryption/decryption</p>
 <p>Scanning and attacking vulnerable test environments</p>
