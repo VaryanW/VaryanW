@@ -6,7 +6,7 @@ Below, are listed some of the projects from both the course I have taken, as wel
 <br><br>
 
 <h1>University of Minnesota Cyber Security Bootcamp </h1> <br>
-<body><bgcolor=FF00FF>In class CTF vs peers </body>
+<body>Exploiting vulnerabilities in a DVWA (Damn Vulnerable Web Application) - Class based CTF event vs peers </body>
 <!--
 **VaryanW/VaryanW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
