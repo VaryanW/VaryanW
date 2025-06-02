@@ -17,7 +17,10 @@ Below, are listed some of the projects from both the course I have taken, as wel
 <p>Access Control Plan, Recovery Plan, Incident Response Plan, Audit and Accountability Plan</p>
 <p>Azure - Creating a network with: Firewall, Front Door, DNS, Subnet, database, JumpBox, and two Win10 Machines - Simulating a full cloud virtual network, how the security functions protect it, and how to use them. </p>
 <br><br>
-<h1>More will be included here soon</h1>
+<h1>More will be included here soon</h1><br>
+<p>-Personal Projects-</p>
+<p>-currently working on ...</p>
+<p>Plans for future growth</p>
 <!--
 **VaryanW/VaryanW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
