@@ -17,13 +17,7 @@ Below, are listed some of the projects from both the course I have taken, as wel
 <p>Access Control Plan, Recovery Plan, Incident Response Plan, Audit and Accountability Plan</p>
 <p>Azure - Creating a network with: Firewall, Front Door, DNS, Subnet, database, JumpBox, and two Win10 Machines - Simulating a full cloud virtual network, how the security functions protect it, and how to use them. </p>
 <br><br>
-<h1>Personal projects</h1>
-<body>Home virtual netwroks and virtual machines</body> <br>
-<p>Windows 2019 Server - STIG testing, setting up as a theoretical new server for Government use (since many of the jobs around me are Gov contracting) </p><br>
-<p>Parrot / Kali - Used to gain knowledge on different systems and their benefits within the CyberSec landscape </p><br>
-<p>Nested Win2019Serv > [Kali, 3x Windows 10/11 (simulated work stations), 2x Mac11 / 13 (simulated work stations)]-- Outside Network - Linux Mint, ParrotOS, Kali, and my Android phone used for simulated attacks</p>
-<body>AWS - working on now, wil post updates as it developes</body><br>
-<body></body>
+<h1>More will be included here soon</h1>
 <!--
 **VaryanW/VaryanW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
