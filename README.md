@@ -13,13 +13,13 @@ Below, are listed some of the projects from both the course I have taken, as wel
 
 <br> <br>
 <h1>Other bootcamp assignments</h1><br>
-<body>Digital Forensics</body><br>
-<body>Encryption/decryption</body><br>
-<body>Scanning and attacking vulnerable test environments</body><br>
-<p>Scanning - Snort, Nessus, NMap, Burp Suit</p><br>
-<p>Exploitation - MSFVenom, SQL Injections, coding error, John-The-Ripper, common commands (Windows and Linux/Unix)</p><br>
-<p>Mitigation, Recovery, and defensive tools - hashing, encryption, UAC (User Account Controls), IAM (Identity Access Management) Controls, </p><br>
-<body>Documentations learned/practiced</body><br>
+<p>Digital Forensics</p>
+<p>Encryption/decryption</p>
+<p>Scanning and attacking vulnerable test environments</p>
+<body>Scanning - Snort, Nessus, NMap, Burp Suit</body><br>
+<body>Exploitation - MSFVenom, SQL Injections, coding error, John-The-Ripper, common commands (Windows and Linux/Unix)</body><br>
+<body>Mitigation, Recovery, and defensive tools - hashing, encryption, UAC (User Account Controls), IAM (Identity Access Management) Controls, </body><br>
+<p>Documentations learned/practiced</p>
 <p>Access Control Plan, Recovery Plan, Incident Response Plan, Audit and Accountability Plan</p>
 <br><br>
 <h1>Personal projects</h1>
