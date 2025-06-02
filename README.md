@@ -5,10 +5,23 @@ While achieving these certificates, I have also worked to grow my knowledge even
 Below, are listed some of the projects from both the course I have taken, as well as some of the personal projects I have done to grow my knowledge.</body>
 <br><br>
 
-<h1>University of Minnesota Cyber Security Bootcamp </h1> <br>
+<h1>University of Minnesota Cyber Security Bootcamp - Larger Projects </h1> <br>
 <body>Exploiting vulnerabilities in a DVWA (Damn Vulnerable Web Application) - Class based CTF event vs peers </body> <br>
 <body>Utilizing Splunk SIEM to identify, altert and respond to simulated attacks</body><br>
 <body>Final Project - Utilizing Elastic SIEM to monitor, and alert on anomolies of a VM network I set up on my PC</body>
+<body> Azure - Creating a cloud-based network, learning the architecture and tools to create and manage simple tasks within a cloud environment</body>
+
+<br> <br>
+<h1>Other bootcamp assignments</h1><br>
+<body></body>
+<br><br>
+<h1>Personal projects</h1>
+<body>Home virtual netwroks and virtual machines</body> <br>
+<p>Windows 2019 Server (STIG testing)</p><br>
+<p>Parrot / Kali - Security</p><br>
+<p>Nested Win2019Serv > [Kali, 3x Windows 10/11 (simulated work stations), 2x Mac11 / 13 (simulated work stations)]-- Outside Network - Linux Mint, ParrotOS, Kali, and my Android phone used for simulated attacks</p>
+<body>AWS - working on now, wil post updates as it developes</body><br>
+<body></body>
 <!--
 **VaryanW/VaryanW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
