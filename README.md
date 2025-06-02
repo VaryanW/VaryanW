@@ -3,13 +3,7 @@
 <br><body>I have been working on learning and growing in the cybersecurity field recently and get into the career and learn and grow even more. I have spent the past few years working on a few certifications (CompTIAA+ and Security+).<br>
 While achieving these certificates, I have also worked to grow my knowledge even further with a bootcamp for cybersecurity, and home projects to grow my skills and understanding within this vast subject. <br>
 Below, are listed some of the projects from both the course I have taken, as well as some of the personal projects I have done to grow my knowledge.</body>
-<br><br>
 
-<h1>University of Minnesota Cyber Security Bootcamp - Larger Projects </h1> <br>
-<p>Exploiting vulnerabilities in a DVWA (Damn Vulnerable Web Application) - Class based CTF event vs peers</p>
-<p>Utilizing Splunk SIEM to identify, altert and respond to simulated attacks</p>
-<p>Final Project - Utilizing Elastic SIEM to monitor, and alert on anomolies of a VM network I set up on my PC</p>
-<p> Azure - Creating a cloud-based network, learning the architecture and tools to create and manage simple tasks within a cloud environment</p>
 
 <br> <br>
 <h1>Other bootcamp assignments</h1><br>
@@ -17,8 +11,8 @@ Below, are listed some of the projects from both the course I have taken, as wel
 <p>Encryption/decryption</p>
 <p>Scanning and attacking vulnerable test environments</p>
 <body>Scanning - Snort, Nessus, NMap, Burp Suit</body><br>
-<body>Exploitation - MSFVenom, SQL Injections, coding error, John-The-Ripper, common commands (Windows and Linux/Unix)</body><br>
-<body>Mitigation, Recovery, and defensive tools - hashing, encryption, UAC (User Account Controls), IAM (Identity Access Management) Controls, </body><br>
+<body>Exploitation - MSFVenom, SQL Injections, coding error, John-The-Ripper, common commands (Windows and Linux/Unix), MSFVenom</body><br>
+<body>Mitigation, Recovery, and defensive tools - hashing, encryption, UAC (User Account Controls), IAM (Identity Access Management) Controls, SIEM (Splunk)</body><br>
 <p>Documentations learned/practiced</p>
 <p>Access Control Plan, Recovery Plan, Incident Response Plan, Audit and Accountability Plan</p>
 <br><br>
