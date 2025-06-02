@@ -6,8 +6,8 @@ Below, are listed some of the projects from both the course I have taken, as wel
 <br><br>
 
 <h1>University of Minnesota Cyber Security Bootcamp </h1> <br>
-<body>Exploiting vulnerabilities in a DVWA (Damn Vulnerable Web Application) - Class based CTF event vs peers </body>
-<body>Utilizing Splunk SIEM to identify, altert and respond to simulated attacks</body>
+<body>Exploiting vulnerabilities in a DVWA (Damn Vulnerable Web Application) - Class based CTF event vs peers </body> <br>
+<body>Utilizing Splunk SIEM to identify, altert and respond to simulated attacks</body><br>
 <body>Final Project - Utilizing Elastic SIEM to monitor, and alert on anomolies of a VM network I set up on my PC</body>
 <!--
 **VaryanW/VaryanW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
