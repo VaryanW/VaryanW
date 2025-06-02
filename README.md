@@ -1,8 +1,12 @@
 ## Hi there 👋
-<h1>Hello, I'm Varyan (vah-ri-an)</h1> 
+<h1>Hello, I'm Varyan (vah-ri-an), or Ryan </h1> 
 <br><body>I have been working on learning and growing in the cybersecurity field recently and get into the career and learn and grow even more. I have spent the past few years working on a few certifications (CompTIAA+ and Security+).<br>
 While achieving these certificates, I have also worked to grow my knowledge even further with a bootcamp for cybersecurity, and home projects to grow my skills and understanding within this vast subject. <br>
 Below, are listed some of the projects from both the course I have taken, as well as some of the personal projects I have done to grow my knowledge.</body>
+<br><br>
+
+<h1>University of Minnesota Cyber Security Bootcamp </h1> <br>
+<body><body bgcolor=FF00FF>In class CTF vs peers </body>
 <!--
 **VaryanW/VaryanW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
