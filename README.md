@@ -12,7 +12,7 @@ Below, are listed some of the projects from both the course I have taken, as wel
 <body>Scanning and attacking vulnerable test environments</body>
 <body>--Scanning - Snort, Nessus, NMap, Burp Suit</body><br>
 <body>--Exploitation - MSFVenom, SQL Injections, coding error, John-The-Ripper, common commands (Windows and Linux/Unix), MSFVenom</body><br>
-<body>--Mitigation, Recovery, and defensive tools - hashing, encryption, UAC (User Account Controls), IAM (Identity Access Management) Controls, <br>  SIEM (Splunk)</body> <br>
+<body>--Mitigation, Recovery, and defensive tools - hashing, encryption, UAC (User Account Controls), IAM (Identity Access Management) Controls, <br>  SIEM (Splunk)</body> <br><br>
 <p>Documentations learned/practiced</p>
 <p>Access Control Plan, Recovery Plan, Incident Response Plan, Audit and Accountability Plan</p>
 <p>Azure - Creating a network with: Firewall, Front Door, DNS, Subnet, database, JumpBox, and two Win10 Machines - Simulating a full cloud virtual network, how the security functions protect it, and how to use them. </p>
