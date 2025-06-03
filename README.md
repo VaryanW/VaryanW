@@ -7,7 +7,7 @@ Below, are listed some of the projects from both the course I have taken, as wel
 
 <br> <br>
 <h1>University of Minnesota Bootcamp - Projects/assignments to gain experience with tools, systems and protocols</h1><br>
-Visit the main repository: [Forensics](https://github.com/VaryanW/Forensics.html)
+Forensics - (https://github.com/VaryanW/Forensics.html)
 <p>Encryption/decryption</p>
 <body>Scanning and attacking vulnerable test environments</body><br>
 <body>-- Scanning - Snort, Nessus, NMap, Burp Suit</body><br>
