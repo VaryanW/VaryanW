@@ -7,8 +7,8 @@ Below, are listed some of the projects from both the course I have taken, as wel
 
 <br> <br>
 <h1>University of Minnesota Bootcamp - Projects/assignments to gain experience with tools, systems and protocols</h1><br>
-Forensics - (https://github.com/VaryanW/Forensics.html)
-<p>Encryption/decryption</p>
+Forensics - (https://github.com/VaryanW/Forensics.html)<br>
+<p>Cryptography</p>
 <body>Scanning and attacking vulnerable test environments</body><br>
 <body>-- Scanning - Snort, Nessus, NMap, Burp Suit</body><br>
 <body>-- Exploitation - MSFVenom, SQL Injections, coding error, John-The-Ripper, common commands (Windows and Linux/Unix), MSFVenom</body><br>
