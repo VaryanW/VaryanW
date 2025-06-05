@@ -11,7 +11,7 @@ Forensics - (https://github.com/VaryanW/Forensics.html)<br> <br>
 <p>Cryptography</p>
 <body>Scanning and attacking vulnerable test environments</body><br>
 <body>-- Scanning - Snort, NMap/Zenmap, Recon.ng, Exploit-DB, Nessus. - (https://github.com/VaryanW/Scanning-and-Vulnerability-Checking/tree/main)</body><br>
-<body>-- <link src="https://github.com/VaryanW/Scanning-and-Vulnerability-Checking/blob/main/README.md" alt="Exploitation"> - MSFVenom, SQL Injections, coding error, John-The-Ripper, common commands (Windows and Linux/Unix), MSFVenom</body><br>
+<body>-- <a href="https://github.com/VaryanW/Scanning-and-Vulnerability-Checking/blob/main/README.md">Exploitation</a> - MSFVenom, SQL Injections, coding error, John-The-Ripper, common commands (Windows and Linux/Unix), MSFVenom</body><br>
 <body>-- Mitigation, Recovery, and monitoring - hashing, encryption, UAC (User Account Controls), IAM (Identity Access Management) Controls, <br>  SIEM (Splunk)</body> <br><br>
 <p>Learned pratices, plans, and other paperwork/recording.</p>
 <p>Access Control Plan, Recovery Plan, Incident Response Plan, Audit and Accountability Plan</p>
