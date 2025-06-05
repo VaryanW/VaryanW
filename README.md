@@ -10,7 +10,7 @@ Below, are listed some of the projects from both the course I have taken, as wel
 <a href="https://github.com/VaryanW/Forensics.html">Forensics</a> - <br> <br>
 <p>Cryptography</p>
 <body>Scanning and attacking vulnerable test environments</body><br>
-<body>-- <a href="https://github.com/VaryanW/Scanning-and-Vulnerability-Checking/blob/main/README.md">Scanning</a> - Snort, NMap/Zenmap, Recon.ng, Exploit-DB, Nessus. - (https://github.com/VaryanW/Scanning-and-Vulnerability-Checking/tree/main)</body><br>
+<body>-- <a href="https://github.com/VaryanW/Scanning-and-Vulnerability-Checking/blob/main/README.md">Scanning</a> - Snort, NMap/Zenmap, Recon.ng, Exploit-DB, Nessus.</body><br>
 <body>-- Exploitation - MSFVenom, SQL Injections, coding error, John-The-Ripper, common commands (Windows and Linux/Unix), MSFVenom</body><br>
 <body>-- Mitigation, Recovery, and monitoring - hashing, encryption, UAC (User Account Controls), IAM (Identity Access Management) Controls, <br>  SIEM (Splunk)</body> <br><br>
 <p>Learned pratices, plans, and other paperwork/recording.</p>
